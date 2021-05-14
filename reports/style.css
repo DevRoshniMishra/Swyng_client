@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    Font-family: Roboto;
+}
+.selector > button {
+	height: 40px;
+	width: 200px;
+	background-color: #fff;
+	padding: 8px;
+	float: left !important;
+    border:1px solid lightgray;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-top: 23px;
+    font-weight: bold;
+    color:rgba(0, 0, 0, 0.75);
+}
+.selector > button:first-child {
+	height: 40px;
+	width: 280px;
+	border-radius: 10px;
+	Font-size: 18px;
+	Line-height: 21.09px;
+	background-color: #fff;
+	padding: 8px;
+	float: left !important;
+    border:1px solid lightgray;
+}
+.down-arrow-icon{
+	float: right;
+	font-size: 30px;
+    margin-top:-7px;
+    color:darkgray;
+    font-weight: bold;  
+}
+.description{
+	background-color: rgba(66, 133, 244, 1);
+}
+.reportbtn{
+	height: 35px;
+	width: 150px;
+	left: 940px;
+	top: 40px;
+	border-radius: 20px;
+	background-color: rgba(66, 133, 244, 1);
+	color:#fff;
+	border:none;
+	float: right;
+	margin-top:70px;	
+}
+.modal-btn > button{
+height: 35px;
+width: 150px;
+left: 3807px;
+top: -593px;
+border-radius: 20px;
+margin-left:10px;
+margin-top:10px;
+background-color: #fff;
+border:1px solid lightgray;
+}
+
+.highlight {
+height: 35px;
+width: 150px;
+left: 3807px;
+top: -593px;
+border-radius: 20px;
+margin-left:10px;
+margin-top:10px;
+background-color: rgba(66, 133, 244, 1) !important;
+border:1px solid lightgray;
+color:#fff;
+}
+.highlight-btn {
+	height: 35px;
+width: 300px;
+
+
+	border-radius: 20px;
+	margin-left:10px;
+	margin-top:10px;
+	background-color: rgba(66, 133, 244, 1) !important;
+	border:1px solid lightgray;
+	color:#fff;
+	}

@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    Font-family: Roboto;
+}
+.logoimg{
+    height: 62.5px;
+	width: 200px;
+	border-radius: 0px;
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+.arrow-icon{
+height: 25px;
+width: 25px;
+margin-top:40px;
+transform: rotate(365deg);
+}
+.summary-container{
+    display:flex;  
+}
+.title > p{
+    Font-weight: Bold;
+    Font-size: 36px;
+    Line-height: 42.19px;
+    Vertical-align: Top;
+    Letter-spacing: 10px;
+    text-transform: uppercase;
+    margin-top:-75px;
+}
+.date-section{
+height: 40px;
+width:100%;
+background-color: rgba(229, 229, 229, 0.25);
+padding:8px;
+margin-top:25px;
+}
+.menu-btn > button{
+    height: 70px;
+    width: 150px;
+    border-radius: 10px;
+    Font-family: Roboto;
+    Font-size: 14px;
+    Line-height: 16.41px;
+    text-align: Center;
+    margin-left:25px;
+    border:none;
+    margin-top:35px;
+    background-color: #fff;
+    box-shadow:0px 4px 5px 0px gray;
+}
+.menu-btn > button > span{
+    Font-size: 22px;
+    Line-height: 28.13px;
+    text-align: Center; 
+}
+.btn-section{
+    margin-top:50px;
+}
+.btn-ref{
+height: 40px;
+width: 200px;
+background-color: rgba(66, 133, 244, 1);
+border-radius: 20px;
+color:white;
+margin-left:17px;
+margin-bottom:25px;
+
+
+}
+

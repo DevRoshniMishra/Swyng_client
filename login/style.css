@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.logo {
+	height: 62.5px;
+	width: 200px;
+	left: 476px;
+	top: 60px;
+	border-radius: 0px;
+	margin-top: 60px;
+	margin-bottom: 105px;
+}
+.email,
+.password {
+	height: 17px;
+	width: 52px;
+	left: 443px;
+	top: 211px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 16px;
+	text-align: left !important;
+	margin-left:-235px;
+}
+.email-intag,
+.pass-intag {
+	height: 40px;
+	width: 300px;
+	left: 426px;
+	top: 228px;
+	border-radius: 10px;
+	background-color: rgba(255, 255, 255, 1);
+	border-color: 1px solid rgba(196, 196, 196, 1);
+}
+.crediential-link{
+	Font-family: Roboto;
+	Font-style: Regular;
+	Font-size: 14px;
+	Line-height: 16.41px;
+	text-align: right;
+	color: rgba(0, 0, 0, 0.75);
+    text-decoration: underline;
+    margin-top:100px;  
+	margin-left:180px; 
+}
+.login-btn{
+height: 40px;
+width: 300px;
+left: 426px;
+top: 439px;
+border-radius: 20px;
+margin-top:82px;
+}
+.icon>img{
+height:100px;
+width:100px;
+margin-left:40px;
+margin-top:70px;
+}
+.arrow-icon{
+height: 25px;
+width: 40px;
+}
